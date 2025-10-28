@@ -20,6 +20,7 @@ I have listed the resources in the drop-down extensions below!
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [The Good Research Code Handbook, Patrick Mineault](https://goodresearch.dev/)
 * [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+* [Vector Geometry Refresher by Mcgil University](https://www.math.mcgill.ca/rags/JAC/DDB/VectorNotes.pdf)
 * [Math for Machine Learning, Garret Thomas](https://gwthomas.github.io/docs/math4ml.pdf)
 * [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/abs/1802.01528)
 
